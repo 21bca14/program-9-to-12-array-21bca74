@@ -27,7 +27,7 @@ void main()
 	printf("sorted array:");
 	for(i=0;i<n;i++)
 	{
-		printf("%dn",a[i]);
+		//printf("%dn",a[i]);
 	}
 	getch();
 }
